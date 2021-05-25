@@ -10,7 +10,9 @@ function switchTheme(theme, ...rmThemes) {
 }
 
 function getTheme() {
-  return getCookie("theme");
+  var theme = getCookie("theme");
+  document.body.classList.add(theme);
+  return theme;
 }
 
 function setCookie(name, value, exdays) {

@@ -7,6 +7,7 @@ function switchTheme(theme, ...rmThemes) {
     document.body.classList.remove(rmThemes[i]);
   }
   setCookie("theme", theme, 10);
+  console.log("Switched theme to: " + theme);
 }
 
 function getTheme() {

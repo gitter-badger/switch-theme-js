@@ -12,7 +12,7 @@ function switchTheme(theme, ...rmThemes) {
 function getTheme() {
   var theme = getCookie("theme");
   if (theme != "") {
-    document.body.classList.add(theme);
+    switchTheme(theme);
   }
   return theme;
 }

@@ -6,6 +6,13 @@
       "options": {
         "tabWidth": 2
       }
+    },
+    {
+      "files": [".prettierrc.json"],
+      "options": {
+        "tabWidth": 4
+      }
     }
-  ]
+  ],
+    "printWidth": 200
 }

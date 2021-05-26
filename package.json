@@ -18,5 +18,7 @@
     "url": "https://github.com/PuneetGopinath/switch-theme-js/issues"
   },
   "homepage": "https://github.com/PuneetGopinath/switch-theme-js#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  },
 }

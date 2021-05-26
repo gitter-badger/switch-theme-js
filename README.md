@@ -8,6 +8,10 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/PuneetGopinath/switch-theme-js?label=total%20lines%20of%20code)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://github.com/PuneetGopinath/switch-theme-js/blob/main/.github/CODE_OF_CONDUCT.md)
 
+## Features
+- Themes switch without page reload
+- Many more features coming
+
 ## Live demo
 See [live demo](https://puneetgopinath.github.io/switch-theme-js/)
 

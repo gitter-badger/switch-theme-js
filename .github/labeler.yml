@@ -1,2 +1,3 @@
 # Add 'documentation' to any changes with markdown files
-documentation: *.md
+documentation: 
+  - any: ['*.md']

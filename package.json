@@ -14,6 +14,10 @@
   ],
   "author": "Puneet Gopinath",
   "license": "LGPL-2.1-only",
+  "scripts": {
+    "format:check": "prettier --check .",
+    "format": "prettier --write ."
+  },
   "bugs": {
     "url": "https://github.com/PuneetGopinath/switch-theme-js/issues"
   },

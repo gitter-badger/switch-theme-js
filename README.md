@@ -26,7 +26,7 @@ This is a basic JS code, that stores the theme name in a cookie that stays for 1
 You need to know CSS for that.
 
 1. Think of a cool theme name
-2. To select the body in CSS, use `body.theme_name` where `theme_name` is your theme name
+2. To select the theme in CSS, use `.theme_name` where `theme_name` is your theme name
 3. To add a button for user to switch the theme, use the html `a` tag e.g. `<a href="javascript:switchTheme('dark', 'white');">Dark theme</a>`
 4. Add `onload="getTheme();"` to your `body` tag
 5. Add `<script async defer src="https://cdn.jsdelivr.net/gh/PuneetGopinath/switch-theme-js@main/src/switch.js"></script>` in the head tag.

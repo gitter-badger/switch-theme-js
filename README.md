@@ -33,7 +33,7 @@ You need to know CSS for that.
 6. That's all, test it out in your website, or submit a bug report for us to Analyse it.
 
 ### 3. Example html file
-The [index.html](index.html) file shows an example.
+The [index.html](https://github.com/PuneetGopinath/switch-theme-js/blob/gh-pages/index.html) file shows an example.
 
 ## Supporters
 👏 A big thank you goes to all the supporters of this project!

@@ -1,12 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <!-- Metas -->
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="robots" content="index, follow" />
         <meta http–equiv="X-UA-Compatible" content="IE=edge" />
+
+        <!-- Basic Info -->
+        <meta name="description" content="Easily switch themes in your website">
+        <meta name="author" content="Contributors @ Switch Theme JS">
+
+        <!-- Twitter Info -->
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:title" content="Switch Theme JS">
+        <meta name="twitter:description" content="Easily switch themes in your website">
+        <!--<meta name="twitter:image" content="https://readme-workflows.github.io/assets/img/favicon.png">-->
+
+        <!-- OpenGraph Info -->
+        <meta property="og:site_name" content="Switch Theme JS">
+        <meta property="og:title" content="Switch Theme JS">
+        <meta property="og:url" content="https://puneetgopinath.github.io/switch-theme-js/">
+        <meta property="og:description" content="Easily switch themes in your website">
+        <!--<meta property="og:image" content="https://readme-workflows.github.io/assets/img/favicon.png">-->
+
+        <!-- Page Properties -->
+        <title>Switch Theme JS | Easily switch themes in your website</title>
+        <!--<link rel="icon" href="https://readme-workflows.github.io/assets/img/favicon.png" />
+        <link href="https://readme-workflows.github.io/assets/img/favicon.png" rel="shortcut icon" />
+        <link href="https://readme-workflows.github.io/assets/img/favicon.png" rel="apple-touch-icon" />
+        <link href="https://readme-workflows.github.io/assets/img/favicon.png" rel="apple-touch-startup-image" />-->
+
+        <!-- Stylesheets -->
         <style>
-        body.dark {
+        .dark {
             color: #fff;
             background-color: #000;
         }
@@ -23,12 +50,24 @@
             margin-top: 32px;
         }
         </style>
+
+        <!-- JavaScript -->
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
         <script async defer src="https://cdn.jsdelivr.net/gh/PuneetGopinath/switch-theme-js@main/src/switch.js"></script>
     </head>
 
     <body onload="getTheme();">
-        <p>Hi all, this is a sample text</p>
+        <div class="container">
+            <!-- GitHub Buttons (buttons.github.io) -->
+            <a class="github-button" href="https://github.com/PuneetGopinath/switch-theme-js/subscription" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch PuneetGopinath/switch-theme-js on GitHub">Watch</a>
+            <a class="github-button" href="https://github.com/PuneetGopinath/switch-theme-js" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star PuneetGopinath/switch-theme-js on GitHub">Star</a>
+            <a class="github-button" href="https://github.com/PuneetGopinath/switch-theme-js/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork PuneetGopinath/switch-theme-js on GitHub">Fork</a>
+        <h1>
+            <a href="https://github.com/PuneetGopinath/switch-theme-js">Switch Theme JS</a>
+        </h1>
+        </div>
         <div class="container center border-top">
+            <div class="right">This site is open source. <a href="https://github.com/PuneetGopinath/switch-theme-js/edit/main/index.html">Improve this page!</a></div>
             <b>Switch to:</b><br>
                 <a href="javascript:switchTheme('dark', 'white');">Dark theme</a><br>
                 <a href="javascript:switchTheme('white', 'dark');">White theme</a>

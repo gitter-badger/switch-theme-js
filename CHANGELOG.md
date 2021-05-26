@@ -11,7 +11,7 @@ Note that the displayed date is in the format `dd-mm-yyyy`
 
 ### Initial release!!
 
-[v1.0.0]: https://github.com/Readme-Workflows/recent-activity/releases/tag/v2.0.0
+[v1.0.0]: https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v1.0.0
 
 ## Older changelogs
 - No older changelogs

@@ -18,4 +18,8 @@ You need to know CSS for that.
 1. Think of a cool theme name
 2. To select the body in CSS, use `body.theme_name` where `theme_name` is your theme name
 3. To add a button for user to switch the theme, use the html `a` tag e.g. `<a href="javascript:switchTheme('dark', 'white');">Dark theme</a>`
-4. That's all, test it out in your website, or submit a bug report for us to Analyse it.
+4. Add `onload="getTheme();"` to your `body` tag
+5. That's all, test it out in your website, or submit a bug report for us to Analyse it.
+
+### 3. Example html file
+The [index.html](index.html) file shows an example.

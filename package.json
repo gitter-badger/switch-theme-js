@@ -1,0 +1,13 @@
+{
+  "name": "switch-theme-site",
+  "private": true,
+  "author": "Puneet Gopinath",
+  "license": "LGPL-2.1-only",
+  "scripts": {
+    "format:check": "prettier --check .",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  }
+}

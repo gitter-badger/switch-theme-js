@@ -1,5 +1,5 @@
 {
-  "name": "switch-theme",
+  "name": "@baalkrshna/switch-theme",
   "version": "0.1.0",
   "description": "Easily handle themes in your website",
   "browser": "./src/switch.js",

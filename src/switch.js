@@ -1,6 +1,6 @@
 /**
- * Switch Theme JS v0.1.0
- * Copyright (c) 2021 Puneet Gopinath
+ * Switch Theme JS v0.1.1
+ * Copyright (c) 2021 Baal Krshna
  */
 
 function switchTheme(theme, ...rmThemes) {

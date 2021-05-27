@@ -1,17 +1,17 @@
-# Changelog v1
+# Changelog v0
 
-The Changelog of the major version 1 of Switch Theme JS.
+The Changelog of the major version 0 of Switch Theme JS.
 
 Note that the displayed date is in the format `dd-mm-yyyy`
 
 [Older changelogs](#older-changelogs)
 
-## [v1.0.0]
+## [v0.1.0]
 > **Released:** `TBA`
 
-### Initial release!!
+### Initial development release!!
 
-[v1.0.0]: https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v1.0.0
+[v0.1.0]: https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.0
 
 ## Older changelogs
 - No older changelogs

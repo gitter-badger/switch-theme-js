@@ -1,6 +1,8 @@
 /**
+ * Switch Theme JS v0.1.0
  * Copyright (c) 2021 Puneet Gopinath
  */
+
 function switchTheme(theme, ...rmThemes) {
     document.body.classList.add(theme);
     for (var i = 0; i < rmThemes.length; i++) {

@@ -1,0 +1,28 @@
+{
+  "name": "@bkbaalkrshna/switch-theme",
+  "version": "0.1.3",
+  "description": "Easily handle themes in your website",
+  "browser": "./src/switch.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuneetGopinath/switch-theme-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "css",
+    "theme"
+  ],
+  "author": "Puneet Gopinath",
+  "license": "LGPL-2.1-only",
+  "scripts": {
+    "format:check": "prettier --check .",
+    "format": "prettier --write ."
+  },
+  "bugs": {
+    "url": "https://github.com/PuneetGopinath/switch-theme-js/issues"
+  },
+  "homepage": "https://github.com/PuneetGopinath/switch-theme-js#readme",
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  }
+}

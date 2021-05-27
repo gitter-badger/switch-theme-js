@@ -1,0 +1,5 @@
+*.md
+LICENSE
+.github/workflows/*.yml
+.github/*.yml
+*ignore*

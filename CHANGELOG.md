@@ -6,8 +6,16 @@ Note that the displayed date is in the format `dd-mm-yyyy`
 
 [Older changelogs](#older-changelogs)
 
-## [v0.1.0]
+## [v0.1.1]
 > **Released:** `TBA`
+
+### Bug fixes
+- Fix package name, as a package with that name already exists.
+
+[v0.1.1]: https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.1
+
+## [v0.1.0]
+> **Released:** `27-05-2021`
 
 ### Initial development release!!
 
